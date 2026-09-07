@@ -1,0 +1,7 @@
+:root {
+    --bg-dark: #0f172a;
+    --card-bg: #1e293b;
+    --purple-primary: #8b5cf6;
+    --text-main: #f8fafc;
+}
+body { background-color: var(--bg-dark); color: var(--text-main); font-family: sans-serif; margin: 0; }
