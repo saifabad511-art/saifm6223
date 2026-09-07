@@ -1,0 +1,1 @@
+document.getElementById('exportBtn').addEventListener('click', generatePDF);
