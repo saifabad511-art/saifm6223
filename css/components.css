@@ -1,0 +1,3 @@
+.navbar { padding: 1rem 2rem; border-bottom: 1px solid var(--purple-primary); }
+.btn-primary { background: var(--purple-primary); color: white; border: none; padding: 10px 20px; cursor: pointer; border-radius: 6px; }
+.container { max-width: 1200px; margin: auto; padding: 2rem; }
