@@ -1,0 +1,1 @@
+const appState = { title: 'تقرير تقني', version: '1.0.0', author: 'DevMind AI' };
